@@ -1,0 +1,20 @@
+* {
+    font-family: 'Times New Roman', Times, serif;
+}
+
+body {
+    padding: 50px;
+}
+
+h3 {
+    padding-top: 10px;
+}
+
+.collection-item {
+    list-style-type: none;
+}
+
+footer {
+    margin-top: 50px;
+    text-align: center;
+}
